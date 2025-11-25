@@ -497,11 +497,11 @@ these are the biggest deals of the year
 
 125
 00:06:34,833 --> 00:06:37,200
-hello my name is Pedro Celeston
+Hello! My name is Pedro Célestin
 
 126
 00:06:37,266 --> 00:06:41,400
-I am an SCF ambassador and a Golden Cube astronaut
+I am a CNCF Ambassador and a Golden Kubestronaut
 
 127
 00:06:41,400 --> 00:06:45,300
@@ -509,23 +509,23 @@ I'm here to remind you of the Cyber Week that's coming in December
 
 128
 00:06:45,300 --> 00:06:49,766
-from 1st to 9th don't miss the biggest deals of the year
+from 1st to 9th. Don't miss the biggest deals of the year!
 
 129
 00:06:50,166 --> 00:06:51,300
-olá a todos
+Olá a todos!
 
 130
-00:06:51,433 --> 00:06:56,233
-EU sou o Pedro Celestin sou o embaixador da CNCF e Golden Cross
+00:06:51,433 --> 00:06:56,900
+Eu sou o Pedro Célestin, sou o Ambassador da CNCF e Golden Kubestronaut
 
 131
-00:06:56,233 --> 00:06:59,733
-Ronald estou aqui para lembrá los da cyber week
+00:06:56,900 --> 00:06:59,733
+e estou aqui para lembrá-los da cyber week,
 
 132
 00:06:59,966 --> 00:07:02,400
-de primeiro de dezembro a nove de dezembro
+de primeiro de dezembro a nove de dezembro,
 
 133
 00:07:02,400 --> 00:07:05,133
@@ -533,7 +533,7 @@ onde teremos as melhores promoções do ano
 
 134
 00:07:05,566 --> 00:07:08,366
-os treinamentos da CNCF e certificações obrigado
+nos treinamentos da CNCF e certificações, obrigado.
 
 135
 00:07:09,066 --> 00:07:12,566
