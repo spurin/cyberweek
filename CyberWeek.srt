@@ -489,7 +489,7 @@ so if you're trying to get CKA
 
 123
 00:06:30,233 --> 00:06:32,933
-CKD or any Linux any Kubeneti certification
+CKAD or any Linux any Kubernetes certification
 
 124
 00:06:32,966 --> 00:06:34,600
